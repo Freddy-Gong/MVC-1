@@ -3,6 +3,7 @@ import $ from 'jquery'
 import Model from './base/Model.js'
 import View from './base/View'
 import EventBus from './base/EventBus'
+import Vue from 'vue'
 
 //数据相关 都放到m
 
